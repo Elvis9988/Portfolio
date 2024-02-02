@@ -120,13 +120,13 @@ img{
 }
 
 .link-custom .card-custom-image {
-    transition: all 0.8s ease;
+    transition: all 0.4s ease;
 }
 .card-customn:hover .card-custom-image {
-    transform: scale(1.9);
+    transform: scale(1.1);
 }
 .image-new{
-    height: 300px;
+    height: 290px;
     width: 250px;
     margin-left: 125px;
 }
